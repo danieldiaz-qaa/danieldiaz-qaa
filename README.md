@@ -41,3 +41,4 @@ Currently at **CloudX → EY**, leading AI testing practices and developing prod
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sdet-daniel-diaz/)
 [![Email](https://img.shields.io/badge/daniel.diaz%40cloudx.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daniel.diaz@cloudx.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/daniel_diaz)
